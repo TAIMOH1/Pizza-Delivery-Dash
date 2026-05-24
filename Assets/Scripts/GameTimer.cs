@@ -4,7 +4,7 @@ using TMPro;
 public class GameTimer : MonoBehaviour
 {
     [SerializeField] float timeRemaining = 300f; 
-    [SerializeField] int pizzasNeeded = 15;
+    [SerializeField] int pizzasNeeded = 20;
     [SerializeField] TMP_Text timerText;
     [SerializeField] TMP_Text resultText;
 
