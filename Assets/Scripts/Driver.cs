@@ -5,7 +5,7 @@ using TMPro;
 
 public class Driver : MonoBehaviour
 {
-    [SerializeField] float currentSpeed = 5f;
+    [SerializeField] float currentSpeed = 6f;
     [SerializeField] float SteerSpeed = 200f;
     [SerializeField] float boostSpeed = 10f;
     [SerializeField] float regularSpeed = 5f;
